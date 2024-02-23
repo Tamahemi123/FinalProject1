@@ -1,0 +1,24 @@
+nav {
+    background-color:beige; 
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color:aqua; 
+}
+
+a:hover {
+    color:black; 
+}
